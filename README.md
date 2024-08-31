@@ -7,6 +7,10 @@ Here's a rewritten version of the project description for your README:
 
 AtliQo, a leading telecom provider in India, launched its 5G plans in May 2022, alongside other major telecom companies. Post-launch, the management noticed a decline in active users and revenue growth. To address these concerns, the business director requested a comprehensive analysis comparing key performance indicators (KPIs) from the periods before and after the 5G launch. The goal is to gain insights that will help the company recover its active user base and improve other critical metrics. Additionally, the management is interested in exploring the potential to optimize internet plans to attract more users.
 
+
+![Dashboard Overview](https://github.com/ali-bin-kashif/telecom-5g-launch-performance-analysis/blob/main/media/dashboard.png)
+
+
 ### Objective
 
 This project aims to create a Power BI dashboard that tracks essential KPIs, comparing the pre- and post-5G launch periods. The dashboard will provide valuable insights to AtliQo's top-level management, enabling them to make informed decisions based on the data.
