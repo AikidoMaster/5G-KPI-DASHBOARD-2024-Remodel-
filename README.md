@@ -32,4 +32,4 @@ The dashboard will empower Airtel India's leadership to make data-driven decisio
 
 Sample Preview:
 
-![Dashboard Preview](Dashboard.gif)
+![Dashboard Preview](dashboard.gif)
