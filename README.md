@@ -1,41 +1,35 @@
-# 5G-KPI-DASHBOARD-2024-Remodel-
+### Project Overview: 5G KPI Dashboard for Airtel India
 
-Here's a rewritten version of the project description for your README:
+**Project Scope:**  
+This project centers on developing a Power BI dashboard to analyze the key performance indicators (KPIs) for Airtel India's 5G services. The focus is on understanding performance shifts since the launch of 5G services, with insights drawn from real-time data under a non-disclosure agreement (NDA) with Airtel India. For demonstration purposes, AtliQo data is used as a placeholder.
 
-Note: This is a referal work to the real analysis done with Airtel's KPI and performance
----
-### Overview
+**Project Goals:**  
+- Create a comprehensive Power BI dashboard to visualize and compare KPIs before and after the launch of 5G services.
+- Provide actionable insights to Airtel India's management to enhance user retention, revenue, and overall performance.
 
-AtliQo, a leading telecom provider in India, launched its 5G plans in May 2022, alongside other major telecom companies. Post-launch, the management noticed a decline in active users and revenue growth. To address these concerns, the business director requested a comprehensive analysis comparing key performance indicators (KPIs) from the periods before and after the 5G launch. The goal is to gain insights that will help the company recover its active user base and improve other critical metrics. Additionally, the management is interested in exploring the potential to optimize internet plans to attract more users.
+**Dashboard Preview:**
 
-### Objective
+![Dashboard Preview](dashboard.png)
 
-This project aims to create a Power BI dashboard that tracks essential KPIs, comparing the pre- and post-5G launch periods. The dashboard will provide valuable insights to AtliQo's top-level management, enabling them to make informed decisions based on the data.
+**Key Metrics Analyzed:**  
+- **Revenue Overview:** Total revenue of ₹31.87 Billion from January to September, with a focus on revenue trends and growth.
+- **User Engagement:** Active user count of 18.82 Million as of September, with analysis of user retention and churn rates.
+- **Revenue Per User:** Average revenue per user (ARPU) reported at ₹200, with pre- and post-5G comparison.
+- **Churn Rate:** Elevated churn rate over 7%, with a detailed examination of its impact post-5G launch.
 
-### Key Insights
+**Detailed Insights:**  
+- **Financial Impact:** A slight reduction of 0.5% in average revenue post-5G, contrasted with an 11% increase in ARPU.
+- **User Trends:** A notable 12% drop in active users after the 5G launch, with a monthly churn rate rising to 23.5%.
+- **City-Level Data:** Significant user growth in Pune and Chandigarh, but substantial declines in cities like Coimbatore.
+- **Churn by Region:** Highest churn rates observed in Lucknow (78%) and Pune (55%).
 
-#### Overall Performance
-- **Total Revenue (Jan-Sep):** ₹31.87 Billion
-- **Active Users (Sep):** 18.82 Million
-- **Average Revenue per User:** ₹200
-- **Churn Rate:** Over 7%
-- **Post-5G Launch Impact:** A slight decline in revenue and a 2% increase in churn rate.
-- **Top Cities by Active Users:** Pune, followed by Mumbai and Kolkata.
-- **Top Cities by Revenue:** Mumbai, followed by Delhi, Kolkata, and Bangalore.
-- **Market Position:** AtliQo holds the third-highest market share, behind PIO and Britel.
+**Competitive Analysis:**  
+- **Market Share:** Airtel India commands 17.84% market share, ranking third after PIO (36.73%) and Britel (27.42%).
+- **Growth Rate:** Airtel India exhibits a 10% slower growth rate compared to competitors.
 
-#### Pre and Post 5G Analysis
-- **Revenue Impact:** A marginal 0.5% drop in average revenue post-launch.
-- **ARPUs:** An 11% increase in average revenue per user.
-- **Active Users:** A significant 12% decrease in active users post-launch.
-- **Churn Rate:** A notable increase, with the average monthly churn rate reaching 23.5%.
-- **City-Level Insights:** Significant increases in active users in Pune and Chandigarh, contrasted by drastic decreases in cities like Coimbatore.
-- **Churn Rate by City:** Lucknow and Pune experience the highest churn rates at 78% and 55%, respectively.
+**Outcome:**  
+The dashboard will empower Airtel India's leadership to make data-driven decisions to mitigate churn, optimize 5G offerings, and enhance market competitiveness.
 
-#### Market and Competitor Analysis
-- **Market Share:** AtliQo holds 17.84%, ranking third behind PIO (36.73%) and Britel (27.42%).
-- **Market Share Growth:** AtliQo is experiencing a 10% lower growth rate, the lowest among competitors.
+Sample Preview:
 
-### Conclusion
 
-The insights from this dashboard will support AtliQo's management in identifying key areas for improvement, particularly in reducing churn and optimizing their 5G offerings to regain market traction.
