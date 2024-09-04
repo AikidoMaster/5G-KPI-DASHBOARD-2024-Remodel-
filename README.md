@@ -9,7 +9,7 @@ This project centers on developing a Power BI dashboard to analyze the key perfo
 
 **Dashboard Preview:**
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 **Key Metrics Analyzed:**  
 - **Revenue Overview:** Total revenue of ₹31.87 Billion from January to September, with a focus on revenue trends and growth.
